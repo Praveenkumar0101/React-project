@@ -11,49 +11,49 @@ export const PRODUCTS = [
   {
     id: 1,
     productName: "IPhone",
-    price:  ₹ 65,000
+    price:  ₹ 65,000,
     productImage: product1,
   },
   {
     id: 2,
     productName: "Macbook Pro 2022 (M1)",
-    price:  ₹ 98,000
+    price:  ₹ 98,000,
     productImage: product2,
   },
   {
     id: 3,
     productName: "Cannon M50 Camera",
-    price: ₹ 45,0000
+    price: ₹ 45,0000,
     productImage: product3,
   },
   {
     id: 4,
     productName: "WLS Van Gogh Denim Jacket",
-    price:  ₹ 2,000
+    price:  ₹ 2,000,
     productImage: product4,
   },
   {
     id: 5,
     productName: "LED Light Strips",
-    price:  ₹ 1,500
+    price:  ₹ 1,500,
     productImage: product5,
   },
   {
     id: 6,
     productName: "SPECTRUM LS TEE",
-    price:  ₹ 1,000
+    price:  ₹ 1,000,
     productImage: product6,
   },
   {
     id: 7,
     productName: "AUTO SERVICE SHIRT by GOLF WANG",
-    price:  ₹ 1,500
+    price:  ₹ 1,500,
     productImage: product7,
   },
   {
     id: 8,
     productName: "DON'T TRIP UNSTRUCTURED HAT",
-    price:  ₹ 1,200
+    price:  ₹ 1,200,
     productImage: product8,
   },
 ];
